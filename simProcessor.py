@@ -1,5 +1,6 @@
 import random
 
+#this represents what's currently on the processor
 class SimProcessor:
     def __init__(self) -> None:
         self.currentProcess = None
